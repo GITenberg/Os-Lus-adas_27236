@@ -17,6 +17,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Lu%C3%ADs_Vaz_de_Cam%C3%B5es
     - http://en.wikipedia.org/wiki/Lu%C3%ADs_de_Cam%C3%B5es
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27236#Os-Lus-adas
 gutenberg_issued: '2008-11-11'
 gutenberg_type: Text
 identifiers:
